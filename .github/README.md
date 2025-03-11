@@ -1,4 +1,4 @@
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 <h2 align="center">
     ──「⛦🦋 𝐏𝐑𝐈𝐍𝐂𝐄𝐒𝐒 ✘ 𝐌𝐔𝐒𝐈𝐂 🦋⛦」──
@@ -23,7 +23,7 @@ href="https://github.com/CREWLOUIS/Princess -Music/blob/master/LICENSE">
  href="https://github.com/CREWLOUIS/Princess-Music/commits/CREWLOUIS"> <img src="https://img.shields.io/github/last-commit/CREWLOUIS/Princess-Music?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
 </p>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 </h2>
 <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=♦𝙳𝙴𝙿𝙻𝙾𝚈+𝙾𝙽+𝙷𝙴𝚁𝙾𝙺𝚄♦;📡+𝙽𝙾+𝙷𝙴𝚁𝙾𝙺𝚄+𝙱𝙰𝙽+𝙸𝚂𝚂𝚄𝙴+𝙰𝙻𝚂𝙾+𝚅𝙿𝚂+𝙳𝙴𝙿𝙻𝙾𝚈+📍+𝙿𝚁𝙴𝚂𝙴𝙽𝚃;❤️+𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈+✦𝐂𝐑𝐄𝐖+𝐋𝐎𝐔𝐈𝐒✦❤️‍🩹">
@@ -77,7 +77,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 - Finally run the bot by :
 `bash start`
 - For getting out from tmux session : Press `Ctrl+b` and then `d`<br>
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 
 <h3 align="center">
@@ -93,4 +93,4 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 </p>
 
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
