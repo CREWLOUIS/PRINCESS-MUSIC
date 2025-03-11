@@ -20,3 +20,7 @@ Tell them where to go, how often they can expect to get an update on a
 reported vulnerability, what to expect if the vulnerability is accepted or
 declined, etc.
 
+
+[ ✦𝐎𝐖𝐍𝐄𝐑 𝐎𝐅✦ ]
+
+❤️ https://t.me/CREW_LOUIS ❤️
