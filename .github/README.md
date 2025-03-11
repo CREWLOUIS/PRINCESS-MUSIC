@@ -84,6 +84,9 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 </p>
 
 -<b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ 
+
 [ᴄʀᴇᴡ ʟᴏᴜɪs](https://github.com/CREWLOUIS) 
+
 ғᴏʀ 
-[ᴄʀᴇᴡʟᴏᴜɪs ᴍᴜsɪᴄ ʙᴏᴛ](https://t.me/CREWLOUIS_BOT)_</b>
+
+[ᴄʀᴇᴡʟᴏᴜɪs ᴍᴜsɪᴄ ʙᴏᴛ ](https://t.me/CREWLOUIS_BOT)_</b>
