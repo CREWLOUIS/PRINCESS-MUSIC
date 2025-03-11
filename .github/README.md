@@ -83,11 +83,5 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 <a href="https://t.me/CREW_LOUIS_BOT"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
--<b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ 
-  [ᴄʀᴇᴡ ʟᴏᴜɪs]
-
-(https://github.com/CREWLOUIS)
--
- ғᴏʀ  [ᴄʀᴇᴡʟᴏᴜɪs ᴍᴜsɪᴄ ʙᴏᴛ]
- 
-     (https://t.me/CREWLOUIS_BOT)_</b>
+-<b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴄʀᴇᴡ ʟᴏᴜɪs](https://github.com/CREWLOUIS) 
+ғᴏʀ [ᴄʀᴇᴡʟᴏᴜɪs ᴍᴜsɪᴄ ʙᴏᴛ](https://t.me/CREWLOUIS_BOT)_</b>
